@@ -75,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [3617-find-the-original-typed-string-i](https://github.com/karthik-bsubramanian/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 <!---LeetCode Topics End-->
