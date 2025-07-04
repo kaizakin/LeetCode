@@ -53,12 +53,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0268-missing-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/karthik-bsubramanian/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/karthik-bsubramanian/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0268-missing-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/karthik-bsubramanian/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/karthik-bsubramanian/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/karthik-bsubramanian/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/karthik-bsubramanian/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
 |  |
 | ------- |
