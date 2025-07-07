@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0792-binary-search) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/karthik-bsubramanian/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/karthik-bsubramanian/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/karthik-bsubramanian/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/karthik-bsubramanian/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0268-missing-number) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/karthik-bsubramanian/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -107,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/karthik-bsubramanian/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Greedy
+|  |
+| ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/karthik-bsubramanian/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/karthik-bsubramanian/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 <!---LeetCode Topics End-->
