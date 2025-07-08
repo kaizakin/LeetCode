@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0792-binary-search) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/karthik-bsubramanian/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/karthik-bsubramanian/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/karthik-bsubramanian/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/karthik-bsubramanian/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/karthik-bsubramanian/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Hash Table
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0792-binary-search) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/karthik-bsubramanian/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,11 +79,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0268-missing-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/karthik-bsubramanian/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/karthik-bsubramanian/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/karthik-bsubramanian/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
