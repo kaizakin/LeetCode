@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1078-remove-outermost-parentheses](https://github.com/karthik-bsubramanian/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [3617-find-the-original-typed-string-i](https://github.com/karthik-bsubramanian/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Recursion
 |  |
@@ -218,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0493-reverse-pairs) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/karthik-bsubramanian/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
