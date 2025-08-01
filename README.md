@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/karthik-bsubramanian/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/karthik-bsubramanian/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/karthik-bsubramanian/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2047-find-a-peak-element-ii](https://github.com/karthik-bsubramanian/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/karthik-bsubramanian/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/karthik-bsubramanian/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Hash Table
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/karthik-bsubramanian/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/karthik-bsubramanian/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/karthik-bsubramanian/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2047-find-a-peak-element-ii](https://github.com/karthik-bsubramanian/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [2047-find-a-peak-element-ii](https://github.com/karthik-bsubramanian/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 ## Prefix Sum
 |  |
 | ------- |
