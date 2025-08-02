@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0268-missing-number) |
+| [2032-largest-odd-number-in-string](https://github.com/karthik-bsubramanian/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/karthik-bsubramanian/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/karthik-bsubramanian/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Bit Manipulation
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/karthik-bsubramanian/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/karthik-bsubramanian/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/karthik-bsubramanian/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Recursion
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/karthik-bsubramanian/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2032-largest-odd-number-in-string](https://github.com/karthik-bsubramanian/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/karthik-bsubramanian/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Heap (Priority Queue)
 |  |
