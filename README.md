@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/karthik-bsubramanian/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/karthik-bsubramanian/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/karthik-bsubramanian/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/karthik-bsubramanian/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Dynamic Programming
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/karthik-bsubramanian/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## String
 |  |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/karthik-bsubramanian/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/karthik-bsubramanian/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -197,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/karthik-bsubramanian/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Sliding Window
 |  |
@@ -244,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0812-rotate-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
