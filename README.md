@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0162-find-peak-element) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/karthik-bsubramanian/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0242-valid-anagram) |
@@ -302,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0139-word-break) |
 ## String Matching
 |  |
 | ------- |
@@ -345,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0079-word-search) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
