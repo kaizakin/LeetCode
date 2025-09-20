@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0282-expression-add-operators) |
 | [2032-largest-odd-number-in-string](https://github.com/karthik-bsubramanian/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0268-missing-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/karthik-bsubramanian/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/karthik-bsubramanian/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2050-count-good-numbers](https://github.com/karthik-bsubramanian/LeetCode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/karthik-bsubramanian/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
