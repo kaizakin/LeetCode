@@ -1,18 +1,12 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-       map<int,int> freq;
-       int i=0;
-       for(int num : nums){
-            freq[nums[i++]]++;
-       } 
-       int singlenumber;
-       for(auto& [key,value] : freq){
-            if(value<2){
-                singlenumber =  key;
-                break;
-            }
-       }
-       return singlenumber;
+        int ans = 0;
+
+        for(int i = 0;i<nums.size();i++){
+            ans = ans ^ nums[i];
+        }
+
+        return ans;
     }
 };
