@@ -1,22 +1,19 @@
 class Solution {
 public:
-    void solve(vector<int> &nums,int idx,vector<vector<int>> &res,vector<int> &temp){
-        if(idx >= nums.size()){
-            res.push_back(temp);
-            return; 
+    vector<vector<int>> subsets(vector<int>& nums) {
+        int n = nums.size();
+        vector<vector<int>> list;
+        int subsets = 1<<nums.size();
+
+        for(int i = 0; i<subsets; ++i){
+            vector<int> temp;
+            for(int j = 0; j<n; ++j){
+                if(i & (1<<j))
+                    temp.push_back(nums[j]);
+            }
+            list.push_back(temp);
         }
 
-        temp.push_back(nums[idx]);//take it
-        solve(nums,idx+1,res,temp);
-        temp.pop_back();
-        solve(nums,idx+1,res,temp);
-
-    }
-    vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>> res;
-        vector<int> temp;
-
-        solve(nums,0,res,temp);
-        return res;
+        return list;
     }
 };
