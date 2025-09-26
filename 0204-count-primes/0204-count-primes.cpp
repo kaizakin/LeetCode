@@ -8,7 +8,7 @@ public:
 
         for(int i=2; i*i<n; i++){
             if(bucket[i]){
-                for(int j=i*i; j<n; j+=i){
+                for(long j=i*i; j<n; j+=i){ //what if i*i exceeds int range
                     bucket[j] = false;
                 }
             }
