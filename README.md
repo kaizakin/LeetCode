@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0282-expression-add-operators) |
@@ -367,4 +369,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0139-word-break) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
