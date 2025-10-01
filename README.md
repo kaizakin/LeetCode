@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/karthik-bsubramanian/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Greedy
 |  |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/karthik-bsubramanian/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/karthik-bsubramanian/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -377,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0204-count-primes) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/karthik-bsubramanian/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
